@@ -12,17 +12,15 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-  - title: Home
+  - title: Recent Posts
     url: /index.html
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
 
 social:
   github: a66as
   twitter: a66askhan
   facebook: a66as
-  email: brimaidesigns@gmail.com
+  email: 
 
 google_analytics: "UA-58263416-1"
