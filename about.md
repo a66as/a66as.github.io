@@ -6,8 +6,8 @@ title: About Me
 <div class="post">
 	<h1 class="pageTitle">About Me</h1>
 	<img src="{{ 'http://www.es.mdh.se/img/staff/3953-staff.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">I am a researcher in software engineering and I blog, run and code for fun ;)</p>
-	<p>Views are my own and so are the Models and also the Controllers.</p>
+	<p class="intro">I am a researcher in software engineering and I blog, run, and code for fun ;)</p>
+	<p>Views are my own and so are the Models and also the Controllers. (Factories are mostly auto generated!)</p>
 	<h2>The academic me</h2>
 	<p>I am a Researcher at <a href="ri.se/muhammad-abbas" target="_blank">RISE</a> ICT, Västerås. My research is focused on variability modeling & testing for variant intensive cyber-physical systems. Before coming to Sweden, I was Instructor at <a href="nu.edu.pk" target="_blank">NUCES</a>, Islamabad where I taught labs of courses: Software Testing, Computer Programming, Object-Oriented Analysis and Design, and Data Structures. Besides, I enjoyed Mobile/Web Applications Development during my BS(Software Engineering) at COMSATS University Islamabad, Wah Campus. I also do fun stuff such as developing Modeling Tools, and Domain-Specific Languages. Back in my MS(Software Engineering) from NUCES, Islamabad, I also worked as a Research Assistant at the Software Quality Engineering & Testing Laboratory.<br />
 	A great honor throughout my academic career was working under the supervision of some great people. I am thankful to the people who supervised me, taught me and most importantly worked on my life skills. I am where I am now just because of the people who invested their valuable time on me. I am also grateful to my current Ph.D. advisors and teachers who are continuously working on polishing me for future adventures.</p>
