@@ -25,7 +25,7 @@ title: About Me
 		<li>Parastu Rahgozar, Summer Intern in NLP for SE at RISE. MSc Student from KTH, Summer 2019</li>
 	</ul>
 	<h3>Rejections in my career</h3>
-	<p>I believe that rejections play a very important role in shaping one's career and personality. Following are the list of rejections I had to face to get where I am now. </p>
+	<p>I believe that rejections play a very important role in shaping one's career and personality. Following are the list of rejections that I had to face:</p>
 	<ul>
 		<li>Rejected for BS in Computer Systems Engineering, NUST, Pakistan - 2012</li>
 		<li>Rejected for MS in Electrical Engineering and Computer Science as an early action applicant, MIT, USA - 2015</li>
