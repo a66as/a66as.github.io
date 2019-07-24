@@ -33,5 +33,5 @@ title: About Me
 		<li>Paper Rejection in SEAA - 2019</li>
 	</ul>
 	<h2>The real me</h2>
-	<p>As a human on the planet earth, I blog, run, and take a lot of photos. I watch movies that build some connection to real-life, that means I usually spend most of my time choosing a movie rather than watching one. I prefer to hike mountains (unfortunately we don't have real mountains in Sweden). I love to discuss culture, history, science, and technology.</p>
+	<p>As a human on the planet earth, I blog, run, play badminton and take a lot of photos. I watch movies that build some connection to real life, that means I usually spend most of my time choosing a movie rather than watching one. I prefer to hike mountains (unfortunately we don't have real mountains in Sweden). I love to discuss culture, history, science, and technology.</p>
 </div>
