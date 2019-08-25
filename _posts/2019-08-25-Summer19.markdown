@@ -5,4 +5,4 @@ date:   2019-08-25
 ---
 
 <p class="intro"><span class="dropcap">P</span>akistan was fun and hot!</p>
-![Swat Pakistan]({{ site.url }}/assets/img/p12019-08-25.jpg)
+![Swat Pakistan](https://a66as.github.io/assets/img/p12019-08-25.jpg)
