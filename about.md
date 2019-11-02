@@ -19,6 +19,7 @@ title: About Me
 	<h3>Community Service</h3>
 	<ul>
 		<li>Reviewed for <a href="https://digital-library.theiet.org/content/journals/iet-sen" target="_blank">IET Software</a> in 2019</li>
+		<li>Reviewed for <a href="https://www.itba.edu.ar/intranet/icit2020/" target="_blank">ICIT</a> in 2020</li>
 	</ul>
 	<h4>Mentoring</h4>
 	<ul>
