@@ -13,8 +13,9 @@ title: About Me
 	A great honor throughout my academic career was working under the supervision of some great people. I am thankful to the people who supervised me, taught me and most importantly worked on my life skills. I am where I am now just because of the people who invested their valuable time on me. I am also grateful to my current Ph.D. advisors and teachers who are continuously working on polishing me for future adventures.</p>
 	<h3>Research Projects</h3>
 	<ul>
-		<li><a href="https://itea3.org/project/xivt.html" target="_blank">XIVT</a></li>
-		<li><a href="https://www.es.mdh.se/projects/497-ARRAY" target="_blank">ARRAY</a></li>
+		<li><a href="https://itea3.org/project/xivt.html" target="_blank">XIVT</a>, funded by ITEA</li>
+		<li><a href="https://www.es.mdh.se/projects/497-ARRAY" target="_blank">ARRAY</a>, funded by Knowledge Foundation Sweden</li>
+		<li>Partially involved in <a href="https://www.ri.se/en/what-we-do/projects/ivves-industrial-grade-verification-and-validation-evolving-systems" target="_blank">IVVES</a>, funded by ITEA</li>
 	</ul>
 	<h3>Community Service</h3>
 	<ul>
@@ -32,6 +33,7 @@ title: About Me
 		<li>Rejected for MS in Electrical Engineering and Computer Science as an early action applicant, MIT, USA - 2015</li>
 		<li>Paper Rejection in REFSQ - 2019</li>
 		<li>Paper Rejection in SEAA - 2019</li>
+		<li>Paper Rejection in RE - 2020</li>
 	</ul>
 	<h2>The real me</h2>
 	<p>As a human on the planet earth, I blog, run, play badminton and take a lot of photos. I watch movies that build some connection to real life, that means I usually spend most of my time choosing a movie rather than watching one. I prefer to hike mountains (unfortunately we don't have real mountains in Sweden). I love to discuss culture, history, science, and technology.</p>
