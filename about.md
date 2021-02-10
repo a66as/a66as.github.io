@@ -26,7 +26,7 @@ title: About Me
 	<ul>
 		<li>Parastu Rahgozar, Summer Intern in NLP for SE at RISE. MSc Student from KTH, Summer 2019</li>
 		<li>Christoffer Parkkila, "Clone detection in model-based design: an evaluation in the safety-critical railway domain", MSc Thesis at MDH (Current)</li>
-		<li>Anxhelina Hoxha, "Feature Location in Clones Simulink Variants", MSc Thesis at MDH (Current)</li>
+		<li>Anxhelina Hoxha, "Feature Location in Cloned Simulink Variants", MSc Thesis at MDH (Current)</li>
 	</ul>
 	<h3>Rejections in my career</h3>
 	<p>I believe that rejections play a very important role in shaping one's career and personality. Following are the list of rejections that I had to face:</p>
