@@ -36,7 +36,11 @@ title: About Me
 		<li>Paper Rejection in REFSQ - 2019</li>
 		<li>Paper Rejection in SEAA - 2019</li>
 		<li>Paper Rejection in RE - 2020</li>
+		<li>... and I stopped counting...</li>
 	</ul>
 	<h2>The real me</h2>
-	<p>As a human on the planet earth, I blog, run, play badminton and take a lot of photos. I watch movies that build some connection to real life, that means I usually spend most of my time choosing a movie rather than watching one. I prefer to hike mountains (unfortunately we don't have real mountains in Sweden). I love to discuss culture, history, science, and technology.</p>
+	<p>As a human on the planet earth, I blog, run, play badminton and take a lot of photos. I watch movies that build some connection to real life, that means I usually spend most of my time choosing a movie rather than watching one. I prefer to hike mountains (unfortunately we don't have real mountains in Sweden). I love to discuss culture, history, science, and technology. My running bests:<br>
+		5k 24:39 <br>
+		10k 52:14 <br>
+		Half-Marathon 1:54:44</p>
 </div>
