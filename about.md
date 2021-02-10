@@ -22,9 +22,10 @@ title: About Me
 		<li>Reviewed for <a href="https://digital-library.theiet.org/content/journals/iet-sen" target="_blank">IET Software</a> in 2019</li>
 		<li>Reviewed for <a href="https://www.itba.edu.ar/intranet/icit2020/" target="_blank">ICIT</a> in 2020</li>
 	</ul>
-	<h4>Mentoring</h4>
+	<h4>Mentoring and Supervision</h4>
 	<ul>
 		<li>Parastu Rahgozar, Summer Intern in NLP for SE at RISE. MSc Student from KTH, Summer 2019</li>
+		<li>Christoffer Parkkila, "Clone detection in model-based design: an evaluation in the safety-critical railway domain", MSc Thesis at MDH (Current)</li>
 	</ul>
 	<h3>Rejections in my career</h3>
 	<p>I believe that rejections play a very important role in shaping one's career and personality. Following are the list of rejections that I had to face:</p>
